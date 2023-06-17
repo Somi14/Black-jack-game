@@ -1,0 +1,44 @@
+body
+{
+background-color: rgb(18, 155, 27);
+
+font-family: "Audiowide", sans-serif;
+text-align: center;
+}
+
+h1
+{
+    color: yellow;
+    
+}
+button
+{
+    width: 150px;
+    background-color: yellow;
+    border-radius: 6px;
+    height: 40px;
+    font-size: large;
+    font-weight: bold;
+    color: green;
+    display: block;
+    margin-left: 44vw;
+}
+
+button#newcard-el
+{
+    margin-top: 6px;
+}
+
+#msg-el
+{
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+p
+{
+    color: azure;
+font-size: medium;
+font-weight: bold;
+}
